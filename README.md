@@ -1,6 +1,6 @@
 # 第一次寫個簡單Visual Studio 外掛就上手 
 
-![alt 預覽](hhttps://github.com/donma/VSExtensionDemo1/blob/master/sample-vsix1.jpg?raw=true)
+![alt 預覽](https://raw.githubusercontent.com/donma/VSExtensionDemo1/master/sample-vsix1.jpg)
 
 基於平台是Visula Studio 2017
 
